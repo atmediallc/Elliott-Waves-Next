@@ -9,12 +9,6 @@
 
 ---
 
-## 🌐 Demo en vivo
-
-**[eliott-waves.traderadd.com](https://eliott-waves.traderadd.com)**
-
----
-
 ## ✨ Features
 
 - **Diagrama interactivo** — Haz clic en cualquier onda del ciclo completo (1-2-3-4-5-A-B-C) para ver sus reglas y detalles
